@@ -1,6 +1,7 @@
 # DailyCoding_HashClub
 
 DailyCoding_HashClub
+![image](https://user-images.githubusercontent.com/89680379/148495783-87cc4cd3-70c6-4499-8e35-f3b253e98600.png)
 
 
 
@@ -11,7 +12,7 @@ About I2IT Hash Club
 The Hash Club is a special interest group initiated under ACM Student Chapter I²IT lead by a group of enthusiastic and motivated coders with an aim to bring fun in learning DSA.🙌🏻
 
 Hash Club I2IT Website: https://varshitha1707.github.io/the-hash-club/
-Coding Platform - 
+Coding Platform - https://leetcode.com/
 Day-1
 Problem Link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 Solution:
